@@ -1,0 +1,15 @@
+*.swp
+*.bk
+.DS_Store
+**/target
+rust/*/target
+rust/*/Cargo.lock
+rust/*/clippy.log
+tmp
+bin/configlet
+bin/configlet.exe
+bin/exercise
+bin/exercise.exe
+exercises/*/*/Cargo.lock
+exercises/*/*/clippy.log
+package.json

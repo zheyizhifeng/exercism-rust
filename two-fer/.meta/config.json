@@ -1,0 +1,34 @@
+{
+  "blurb": "Create a sentence of the form \"One for X, one for me.\"",
+  "authors": [
+    "coriolinus"
+  ],
+  "contributors": [
+    "cwhakes",
+    "efx",
+    "ErikSchierboom",
+    "ffflorian",
+    "hilary",
+    "joshgoebel",
+    "lutostag",
+    "petertseng",
+    "rofrol",
+    "stringparser",
+    "uzilan",
+    "xakon",
+    "ZapAnton"
+  ],
+  "files": {
+    "solution": [
+      "src/lib.rs",
+      "Cargo.toml"
+    ],
+    "test": [
+      "tests/two-fer.rs"
+    ],
+    "example": [
+      ".meta/example.rs"
+    ]
+  },
+  "source_url": "https://github.com/exercism/problem-specifications/issues/757"
+}
